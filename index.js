@@ -1,4 +1,7 @@
 'use strict'
+
+var fs = require('fs');
+
 var parsecsv = {
     processCSVWithEscape: function(req, res, next) {
         var csvfile = req.files && req.files.csvfile;
@@ -55,4 +58,4 @@ var parsecsv = {
     }
 }
 
-module.export = parsecsv;
+module.exports = parsecsv;
