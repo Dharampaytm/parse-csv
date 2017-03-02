@@ -1,6 +1,6 @@
 {
   "name": "@dharamraj/parse-csv",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A library for complete csv stuff",
   "main": "index.js",
   "scripts": {
@@ -17,5 +17,3 @@
   },
   "homepage": "https://github.com/Dharampaytm/parse-csv#readme"
 }
-
-//@dharamraj/parse-csv@0.0.1
